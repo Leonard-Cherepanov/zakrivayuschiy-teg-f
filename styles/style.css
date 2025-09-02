@@ -208,8 +208,8 @@
 
 .floppy {
   color: var(--additional-color);
-  min-inline-size: 28px;
-  block-size: 28px;
+  min-inline-size: 21px;
+  block-size: 21px;
   mix-blend-mode: difference;
 }
 
